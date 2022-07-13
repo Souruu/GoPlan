@@ -23,7 +23,7 @@
 		to your new<br />SvelteKit app
 	</h1>
 
-	<h2>
+	<h2 class="text-3xl font-bold underline border-4 border-black rounded-2xl">
 		try editing <strong>src/routes/index.svelte</strong>
 	</h2>
 
